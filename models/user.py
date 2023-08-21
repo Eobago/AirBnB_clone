@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 """Implements the user's model"""
 from models.base_model import BaseModel
 
